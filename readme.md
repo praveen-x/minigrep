@@ -1,0 +1,1 @@
+A command line tool for searching in a file, like grep command.
